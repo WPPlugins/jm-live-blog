@@ -1,0 +1,10 @@
+.jm-live-blog-fields {
+    width: 100%;
+    border-top: 1px solid #333333;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.jm-live-blog-fields .jm_live_blog_input {
+    width: 100%;
+    margin-bottom: 5px;
+}
